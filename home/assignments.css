@@ -143,6 +143,15 @@ ul li{
     padding: 10px;
     font-size: 20px;
     color: var(--main);
-    margin-bottom: 15px;
+    margin-bottom: 10px;
+    margin-top: 10px;
     /* background-color: #333; */
+}
+
+a{
+    border-bottom: 2px solid black;
+}
+
+li:hover{
+    color: brown;
 }
